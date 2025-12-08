@@ -1,0 +1,1 @@
+“This Power BI dashboard analyzes key hospital metrics, including patient demographics, department performance, wait times, and financial insights. It features interactive filters, DAX-based calculations, and visually intuitive charts designed to support data-driven decisions and improve operational efficiency within a healthcare management environment.”
